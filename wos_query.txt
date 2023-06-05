@@ -1,0 +1,1 @@
+AK=(("chatbot" or "virtual assistant" or "natural language interface" or "conversational interface") and ("cultural heritage"))
